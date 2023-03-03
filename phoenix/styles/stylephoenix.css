@@ -273,11 +273,11 @@ footer .social img {
 
 /*hancement*/
 .msg {
-    background-color: #6f7364;
+    background-color: #3a30169c;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #3a30169c;
 }
 
 
