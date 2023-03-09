@@ -291,6 +291,23 @@ footer {
     align-items: center;
 }
 
+
+/* Contactus */
+ 
+#feedback {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .5em;
+    /* make this element invisible until we are ready for it */
+    display: none;      
+}
+.moveDown {
+    margin-top: 3em;
+}
+
 /*hancement*/
 .card-img {
     border: 10px solid #d9c2a3;
