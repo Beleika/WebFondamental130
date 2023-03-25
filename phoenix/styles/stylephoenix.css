@@ -244,6 +244,26 @@ h1 {color:  black;
   border-radius: 5px
 }
 
+.block1 {
+    margin:  center;
+    text-align: center;
+  }
+  .block2 {
+    margin-left:  auto;
+    text-align: left;
+  }
+
+  .block3 {
+    margin-left:  auto;
+    text-align: left;
+  }
+
+  .block4 {
+    margin-left:  auto;
+    text-align: left;
+  }
+  
+
 /*Make Galery*/
 .img-gallery {
     width: 50%;
