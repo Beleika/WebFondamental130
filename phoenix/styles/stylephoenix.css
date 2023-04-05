@@ -230,12 +230,16 @@ footer .social img {
     padding-top: 15px;
 }
 
-h3,  h5, h6 {
+h3,  h5 {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 2em; ;
     color: #396E94;;
     --paragraph-color-on-white: #396E94;
-  }
+  } 
+h6 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
 h1 {color:  black;
   background-color: #d9c2a3;
   text-decoration: none;
@@ -251,16 +255,20 @@ h1 {color:  black;
   .block2 {
     margin-left:  auto;
     text-align: left;
+    padding: 30px 30px;
+
   }
 
   .block3 {
     margin-left:  auto;
     text-align: left;
+    padding: 30px 30px;
   }
 
   .block4 {
     margin-left:  auto;
     text-align: left;
+    padding: 30px 30px;
   }
   
 
